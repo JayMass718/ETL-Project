@@ -1,5 +1,4 @@
 # Extract, Transform, Load Coronavirus Data
-ETL Project Report
 Contributors: Julian Massiah, Jennifer Qian
 
 For the project, our group decided to Extract, Transform and Load (ETL) data based on the current Coronavirus outbreak. We found several google spreadsheet datasets, which documented the levels of contagion in the countries around the world. Each dataset was a measurement of the contagion on consecutive days between January 22th and January 27th, at 12-hour intervals. As a result, there are a total of 12 datasets.
